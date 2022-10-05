@@ -20,19 +20,19 @@
 
 ##  주요 제품
 
-  ![modeling F](./images/modeling F.png) ![modeling B](./images/modeling B.png) <img src="./images/column1.png" alt="column1" style="zoom:67%;" />
+  <img src="./images/modeling F.png"> <img src="./images/modeling B.png">  <img src="./images/column1.png" alt="column1" style="zoom:67%;" />
 
 <조각 정면>, <조각 후면>, <기둥>
 
 ##  구동부
 
-<img src="./images/lack.png" alt="lack" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\pinion.png" alt="pinion" style="zoom:67%;" /> <img src="./images/step motor.png" alt="step motor" style="zoom:67%;" />
+<img src="./images/lack.png" alt="lack" style="zoom:67%;" /> <img src="./images/pinion.png" alt="pinion" style="zoom:67%;" /> <img src="./images/step motor.png" alt="step motor" style="zoom:67%;" />
 
 <랙>, <피니언 기어>, <스텝모터와 드라이버>
 
 ##  제어 및 동작 흐름도
 
-![initialization process](./images/initialization process.png) ![work process](./images/work process.png) ![process](./images/process.png) 
+<img src="./images/initialization process.png"> <img src="./images/work process.png"> ![process](./images/process.png) 
 
 <초기화 프로세스>, <동작 프로세스>, <동작 흐름도> 
 
