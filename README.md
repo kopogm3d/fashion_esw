@@ -20,27 +20,27 @@
 
 ##  주요 제품
 
-  ![modeling F](D:\ESW\fashion_esw\images\modeling F.png) ![modeling B](D:\ESW\fashion_esw\images\modeling B.png) <img src="D:\ESW\fashion_esw\images\column1.png" alt="column1" style="zoom:67%;" />
+  ![modeling F](./images/modeling F.png) ![modeling B](./images/modeling B.png) <img src="./images/column1.png" alt="column1" style="zoom:67%;" />
 
 <조각 정면>, <조각 후면>, <기둥>
 
 ##  구동부
 
-<img src="D:\ESW\fashion_esw\images\lack.png" alt="lack" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\pinion.png" alt="pinion" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\step motor.png" alt="step motor" style="zoom:67%;" />
+<img src="./image/lack.png" alt="lack" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\pinion.png" alt="pinion" style="zoom:67%;" /> <img src="./images/step motor.png" alt="step motor" style="zoom:67%;" />
 
 <랙>, <피니언 기어>, <스텝모터와 드라이버>
 
 ##  제어 및 동작 흐름도
 
-![initialization process](D:\ESW\fashion_esw\images\initialization process.png) ![work process](D:\ESW\fashion_esw\images\work process.png) ![process](D:\ESW\fashion_esw\images\process.png) 
+![initialization process](./images/initialization process.png) ![work process](./images/work process.png) ![process](./images/process.png) 
 
 <초기화 프로세스>, <동작 프로세스>, <동작 흐름도> 
 
 ##  어플리케이션 인터페이스
 
-​       <img src="D:\ESW\fashion_esw\images\app inventor.png" alt="app inventor" style="zoom:80%;" />  <img src="D:\ESW\fashion_esw\images\app interface.png" alt="app interface" style="zoom:80%;" />
+​       <img src="./images/app inventor.png" alt="app inventor" style="zoom:80%;" />  <img src="./images/app interface.png" alt="app interface" style="zoom:80%;" />
 
 ##  결과물
 
-<img src="D:\ESW\fashion_esw\images\model result.jpg" alt="model result" style="zoom: 67%;" /> 
+<img src="./images/model result.jpg" alt="model result" style="zoom: 67%;" /> 
 
