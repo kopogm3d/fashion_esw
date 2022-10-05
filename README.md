@@ -26,7 +26,7 @@
 
 ##  구동부
 
-<img src="./image/lack.png" alt="lack" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\pinion.png" alt="pinion" style="zoom:67%;" /> <img src="./images/step motor.png" alt="step motor" style="zoom:67%;" />
+<img src="./images/lack.png" alt="lack" style="zoom:67%;" /> <img src="D:\ESW\fashion_esw\images\pinion.png" alt="pinion" style="zoom:67%;" /> <img src="./images/step motor.png" alt="step motor" style="zoom:67%;" />
 
 <랙>, <피니언 기어>, <스텝모터와 드라이버>
 
